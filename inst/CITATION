@@ -1,0 +1,10 @@
+bibentry(
+  bibtype  = "Article",
+  author = c(person(c("Roy"), "Cerqueti"),
+             person(c("Paolo"), "Maranzano"),
+             person(c("Raffaele"), "Mattera")),
+	title = "Spatially-clustered spatial autoregressive models with application to agricultural market concentration in Europe",
+  journal= "arXiv preprint arXiv:2407.15874",
+  url = "https://arxiv.org/abs/2407.15874",
+  year = "2024"
+)
