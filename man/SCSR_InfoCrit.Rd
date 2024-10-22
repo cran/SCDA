@@ -88,3 +88,8 @@ SCSAR_IC <- SCSR_InfoCrit(Formula = "Gini_SO ~ GDPPC_PPS2020 + Share_AgroEmp",
 }
 
 }
+\author{
+Paolo Maranzano <>
+
+Raffaele Mattera <>
+}

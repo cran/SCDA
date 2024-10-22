@@ -33,6 +33,8 @@
 #' @param Verbose \code{Logical} value (\code{TRUE} or \code{FALSE}). Toggle warnings and messages. If \code{verbose = TRUE} (default) the function
 #' prints on the screen some messages describing the progress of the tasks. If \code{verbose = FALSE} any message about the progression is suppressed.
 #'
+#' @author Paolo Maranzano <>
+#' @author Raffaele Mattera <>
 #'
 #' @return A list object containing the following outputs:
 #' \itemize{
